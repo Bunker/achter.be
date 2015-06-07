@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Uncategorized on achter.be</title>
+    <link>http://localhost:1313/categories/uncategorized/</link>
+    <description>Recent content in Uncategorized on achter.be</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 May 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/uncategorized/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Raspberry Pi scrapbook</title>
+      <link>http://localhost:1313/20150519_raspberry-pi-scrapbook/</link>
+      <pubDate>Tue, 19 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/20150519_raspberry-pi-scrapbook/</guid>
+      <description>&lt;p&gt;I&amp;#8217;m trying to setup a sort of internet of things sensor network at home.&lt;/p&gt;
+
+&lt;p&gt;For this project I&amp;#8217;m using raspberry pi and Arduino boards.&lt;/p&gt;
+
+&lt;p&gt;As I already had to start over, I&amp;#8217;m going to use this post as a scrapbook:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Pi setup:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;install Noobs on Raspberry Pi&lt;/li&gt;
+&lt;li&gt;Select Raspbian as OS&lt;/li&gt;
+&lt;li&gt;apt-get:
+
+&lt;ul&gt;
+&lt;li&gt;tightvncserver&lt;/li&gt;
+&lt;li&gt;upstart&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;reboot&lt;/li&gt;
+&lt;li&gt;this probably gives a weird Login screen, ssh to Pi and chown pi:pi .Xauthority in home dir.&lt;/li&gt;
+&lt;li&gt;reboot again&lt;/li&gt;
+&lt;li&gt;apt-get:
+
+&lt;ul&gt;
+&lt;li&gt;arduino&lt;/li&gt;
+&lt;li&gt;python-pip&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;install adafruit webide&lt;/li&gt;
+&lt;li&gt;install pyserial:
+
+&lt;ul&gt;
+&lt;li&gt;by downloading latest version (atm 2.7) in tar.gz -&amp;gt;&lt;/li&gt;
+&lt;li&gt;untar -&amp;gt; install with &lt;code&gt;sudo python setup.py install&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Make startup script for scripts:
+
+&lt;ul&gt;
+&lt;li&gt;doorbell.py&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Startup scripts:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;cd /etc/init&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;nano scriptname.conf&lt;/code&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;copy/paste this code and fill in&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;# Program_explanation
+
+
+description &amp;quot;Your_description&amp;quot;
+author &amp;quot;User&amp;quot;
+
+
+start on runlevel [2345]
+stop on runlevel [016]
+chdir path_to_dir_with_script
+exec python path_to_script.py
+respawn
+&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;start script with sudo service scriptname start, it starts every reboot and when it quits it respawns.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Shooting lighting</title>
+      <link>http://localhost:1313/20110629_shooting-lighting/</link>
+      <pubDate>Wed, 29 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/20110629_shooting-lighting/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/loneblackrider/5882658824/&#34; title=&#34;Bit of lighting by PitsLamp photography, on Flickr&#34;&gt;&lt;img src=&#34;http://farm6.static.flickr.com/5223/5882658824_aaf42acf3f.jpg&#34; width=&#34;500&#34; height=&#34;333&#34; alt=&#34;Bit of lighting&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Yesterday a pretty serious thunderstorm passed over Belgium. I setup my tripod in the bedroom and tried to shoot some lighting. I got one shot that worked out great. This one&amp;#8230;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Salon 8</title>
+      <link>http://localhost:1313/20100805_salon-8/</link>
+      <pubDate>Thu, 05 Aug 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/20100805_salon-8/</guid>
+      <description>&lt;p&gt;At the beginning of july I got asked by &lt;a href=&#34;http://www.wonderingmick.com/&#34; title=&#34;MICK!&#34; rel=&#34;contact, met&#34;&gt;Mick&lt;/a&gt; to join &lt;a href=&#34;http://salon8.cktail.com/&#34; title=&#34;Salon8&#34; rel=&#34;contact, met, muse&#34;&gt;Salon 8&lt;/a&gt;. Salon 8 is a project where 8 photographers take on 26 themes. Now because they started in January, but somebody quit, they had an open spot, where I could fit in.&lt;/p&gt;
+
+&lt;p&gt;I already knew the project, had followed it on the website, so I did not think very long and agreed to take part. My first assignment was already 4 days later, but I managed to photograph and upload in time.&lt;/p&gt;
+
+&lt;p&gt;The reason I said yes, is because it is perfect to try out some new ideas and to start with a theme and make a picture around it. Anyway these are my first 3 entries.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/loneblackrider/4765688335/&#34; title=&#34;[Salon8] Concrete: What goes around, comes around by PitsLamp photography, on Flickr&#34;&gt;&lt;img src=&#34;http://farm5.static.flickr.com/4078/4765688335_e83258e346.jpg&#34; width=&#34;333&#34; height=&#34;500&#34; alt=&#34;[Salon8] Concrete: What goes around, comes around&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Theme: Concrete&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/loneblackrider/4806530314/&#34; title=&#34;[Salon8] Human Body: Vitruvian Woman by PitsLamp photography, on Flickr&#34;&gt;&lt;img src=&#34;http://farm5.static.flickr.com/4142/4806530314_2f928961a4.jpg&#34; width=&#34;333&#34; height=&#34;500&#34; alt=&#34;[Salon8] Human Body: Vitruvian Woman&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Theme: Human Body&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/loneblackrider/4853243034/&#34; title=&#34;[Salon8] Soft by PitsLamp photography, on Flickr&#34;&gt;&lt;img src=&#34;http://farm5.static.flickr.com/4120/4853243034_ba8b805bcb.jpg&#34; width=&#34;333&#34; height=&#34;500&#34; alt=&#34;[Salon8] Soft&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Theme: soft&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Rolleiflex</title>
+      <link>http://localhost:1313/20100510_rolleiflex/</link>
+      <pubDate>Mon, 10 May 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/20100510_rolleiflex/</guid>
+      <description>&lt;p&gt;Photographing with the vredebox made me realize that I wanted to experience more of analog photography. So I started searching online for a more advanced camera. The vredebox is great, but you&amp;#8217;re so limited to what you can photograph with it and how. So I wanted so more control over depth of field, shutterspeed and aperture. My search let me towards the Twin Lens Reflex camera&amp;#8217;s. Although these camera&amp;#8217;s are pretty old, you still pay a good amount of money for them. I mean a mamiya or yashica changes owner for about 300 euro on ebay.&lt;/p&gt;
+
+&lt;p&gt;On &lt;a href=&#34;hhttp://www.2dehands.be/foto-camera/&#34; title=&#34;Foto en camera op 2dehands.be&#34; rel=&#34;none&#34;&gt;2dehands.be&lt;/a&gt; I found after a lot of searching a original Rolleiflex Standard 622 from 1934 for 50 euro. I went to check it out, although it misses the plate with the serial number, everything else is in great shape. I went with it.&lt;/p&gt;
+
+&lt;p&gt;The Rolleiflex original standard model was made by Franke &amp;amp; Heidecke in Braunschweig, Germany from 1932 to 1938. The lens is a 75mm f3.5 uncoated carl zeis lens, the shutter goes from &lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;500&lt;/sub&gt; till 1 second. And off course there is a bulb mode. Apparently famous war photographer and Magnum co-founder Robert Capa used this camera during WW II, next to a contax camera.&lt;/p&gt;
+
+&lt;p&gt;I tried some different film with it, at the moment I haven&amp;#8217;t figured out which one I prefer but what I do know is, that this is an awsome camera. Just look at some of the results.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/loneblackrider/4589728290/&#34; title=&#34;[rolleiflex] &#39;t Steen in Antwerp by PitsLamp photography, on Flickr&#34;&gt;&lt;img src=&#34;http://farm4.static.flickr.com/3302/4589728290_f8f5613c4e.jpg&#34; width=&#34;468&#34; height=&#34;500&#34; alt=&#34;[rolleiflex] &#39;t Steen in Antwerp&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/loneblackrider/4589720864/&#34; title=&#34;[rolleiflex] Sara in the park by PitsLamp photography, on Flickr&#34;&gt;&lt;img src=&#34;http://farm5.static.flickr.com/4010/4589720864_1ba02b80f2.jpg&#34; width=&#34;475&#34; height=&#34;500&#34; alt=&#34;[rolleiflex] Sara in the park&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/loneblackrider/4589098891/&#34; title=&#34;[rolleiflex] [double-exposure] Simon and alleyway by PitsLamp photography, on Flickr&#34;&gt;&lt;img src=&#34;http://farm5.static.flickr.com/4032/4589098891_141d806514.jpg&#34; width=&#34;472&#34; height=&#34;500&#34; alt=&#34;[rolleiflex] [double-exposure] Simon and alleyway&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/loneblackrider/4589091877/&#34; title=&#34;[rolleiflex] Sara at sunset by PitsLamp photography, on Flickr&#34;&gt;&lt;img src=&#34;http://farm5.static.flickr.com/4030/4589091877_3c1fc275d6.jpg&#34; width=&#34;475&#34; height=&#34;500&#34; alt=&#34;[rolleiflex] Sara at sunset&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/loneblackrider/4589086703/&#34; title=&#34;[rolleiflex] BGGD 27 by PitsLamp photography, on Flickr&#34;&gt;&lt;img src=&#34;http://farm5.static.flickr.com/4066/4589086703_6ba0cf9422.jpg&#34; width=&#34;480&#34; height=&#34;500&#34; alt=&#34;[rolleiflex] BGGD 27&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I love the colors, the square format and just everything about this camera. If you want to follow more the results just follow &lt;a href=&#34;http://www.flickr.com/photos/loneblackrider/sets/72157624018371542/&#34; title=&#34;Rolleiflex on flickr&#34; rel=&#34;me&#34;&gt;this set&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

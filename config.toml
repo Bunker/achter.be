@@ -1,0 +1,13 @@
+baseurl = "http://www.achter.be"
+languageCode = "en-us"
+title = "achter.be"
+description = "photography, coffee, technology and more"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+builddrafts = false
+canonifyurls = false
+paginate = 10
+paginatePath = "page"
+pluralizeListTitles = true

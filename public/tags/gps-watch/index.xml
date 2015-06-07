@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gps Watch on achter.be</title>
+    <link>http://localhost:1313/tags/gps-watch/</link>
+    <description>Recent content in Gps Watch on achter.be</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 29 Nov 2010 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/gps-watch/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Unboxing the Garmin Forerunner 210</title>
+      <link>http://localhost:1313/20101129_unboxing-the-garmin-forerunner-210/</link>
+      <pubDate>Mon, 29 Nov 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/20101129_unboxing-the-garmin-forerunner-210/</guid>
+      <description>&lt;p&gt;Last week I received the Garmin Forerunner 210 I ordered of &lt;a href=&#34;http://garmin.mijngpsshop.be&#34; title=&#34;Mijn gpsshop&#34;&gt;mijngpsshop.be&lt;/a&gt;. I made an unboxing movie, which you can see here.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://vimeo.com/17244907&#34;&gt;Unboxing Garmin Forerunner 210&lt;/a&gt; from &lt;a href=&#34;http://vimeo.com/pitslamp&#34;&gt;PitsLamp&lt;/a&gt; on &lt;a href=&#34;http://vimeo.com&#34;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I already trained twice with the forerunner 210 and it behaved as advertised, except for 1 thing. It does not calculate the calories I burn during the training. But after searching on the internet I found a solution for that. You have to hard reset the watch, because there is something wrong when you receive it from the factory, which makes that the user settings aren&amp;#8217;t used during the training.&lt;/p&gt;
+
+&lt;p&gt;The hard reset procedure you need to perform is pressing the page/menu and lap/reset at the same time, and holding them until you see a prompt (about 3 seconds). This clears all data on the watch, it also clears your history so be aware that you upload the data first, before doing this reset.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

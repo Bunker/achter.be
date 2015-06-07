@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pieter on achter.be</title>
+    <link>http://localhost:1313/tags/pieter/</link>
+    <description>Recent content in Pieter on achter.be</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 19 Apr 2010 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/pieter/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>What to expect on this blog</title>
+      <link>http://localhost:1313/20100419_what_to_expect/</link>
+      <pubDate>Mon, 19 Apr 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/20100419_what_to_expect/</guid>
+      <description>&lt;p&gt;You can expect here some random stuff, I&amp;#8217;ll post behind the scenes footage of &lt;a href=&#34;http://www.pitslamp.be&#34; title=&#34;PitsLamp Fotografie&#34; rel=&#34;me&#34;&gt;PitsLamp&lt;/a&gt;, personal stuff of me and &lt;a href=&#34;http://www.saravdv.be&#34; title=&#34;Sara Van de Velde&#34; rel=&#34;friend muse met&#34;&gt;SaraVdV&lt;/a&gt;, reviews, stuff I&amp;#8217;m working on, &amp;#8230; It does not really matter what, basically everything that&amp;#8217;s too long to tweet and everything I&amp;#8217;m not able to post at &lt;a href=&#34;http://www.pitslamp.be&#34; title=&#34;PitsLamp Fotografie&#34; rel=&#34;me&#34;&gt;PitsLamp&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;For starters, I&amp;#8217;l post a picture of &lt;a href=&#34;http://www.pietervanimpe.com/&#34; title=&#34;Pieter Vanimpe&#34; rel=&#34;me&#34;&gt;Pieter&lt;/a&gt;, it&amp;#8217;s the second picture I took with my Vredeborch Vredebox.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/loneblackrider/4520510482/&#34; title=&#34;Boer Van Impe by PitsLamp photography, on Flickr&#34;&gt;&lt;img src=&#34;http://farm3.static.flickr.com/2699/4520510482_a4aaa268cf.jpg&#34; width=&#34;292&#34; height=&#34;500&#34; alt=&#34;Boer Van Impe&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

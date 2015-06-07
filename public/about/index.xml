@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on achter.be</title>
+    <link>http://localhost:1313/about/</link>
+    <description>Recent content in Abouts on achter.be</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 19 Apr 2010 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About me</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 19 Apr 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;I&amp;#8217;m Filip Bunkens, also knows as &lt;a href=&#34;http://www.twitter.com/bunker&#34; rel=&#34;me&#34; title=&#34;Bunker at twitter.com&#34;&gt;@bunker&lt;/a&gt;. I&amp;#8217;m a professional portrait, event, concept and advertising photographer based in Belgium.&lt;/p&gt;
+
+&lt;p&gt;If you are interested in my photography website, you better head over to &lt;a href=&#34;http://www.pitslamp.com&#34; rel=&#34;me&#34; title=&#34;Pitslamp Photography&#34;&gt;pitslamp.com&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.achter.be/wp-content/uploads/2010/04/20110927_us_by_wesley_nulens_film5-11-1.jpg&#34;&gt;&lt;img src=&#34;http://www.achter.be/wp-content/uploads/2010/04/20110927_us_by_wesley_nulens_film5-11-1-781x1024.jpg&#34; alt=&#34;Filip Bunkens - © Wesley Nulens&#34; width=&#34;550&#34; class=&#34;alignnone size-large wp-image-273&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This blog is a reincarnation of my old blog, the purpose is to post everything that&amp;#8217;s too long to tweet and everything I’m not able to post at PitsLamp. This will include behind the scenes footage of PitsLamp, personal stuff of me, reviews, stuff I’m working on, tutorials, … &amp;lt;/p?&lt;/p&gt;
+
+&lt;p&gt;Just enjoy what you see and read&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2015-05-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/20150519_raspberry-pi-scrapbook/</loc>
+    <lastmod>2015-05-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/20130109_review-backblaze-cloud-backup/</loc>
+    <lastmod>2013-01-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/20121020_review-kingston-3k-hyperx-ssd/</loc>
+    <lastmod>2012-10-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/20120307_review-logitech-f540/</loc>
+    <lastmod>2012-03-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/20120307_review-sony-nex-5n/</loc>
+    <lastmod>2012-03-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/20120206_review-samsung-nx200/</loc>
+    <lastmod>2012-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/20120130_tutorial-setting-up-wds-with-apple-airports/</loc>
+    <lastmod>2012-01-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/20111006_ithanksteve/</loc>
+    <lastmod>2011-10-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/20110930_logitech-magic/</loc>
+    <lastmod>2011-09-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/20110825_the-end-of-an-era-steve-jobs-steps-down-as-ceo-of-apple-inc/</loc>
+    <lastmod>2011-08-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/20110629_shooting-lighting/</loc>
+    <lastmod>2011-06-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/20110303_an-applefanboys-wet-dream/</loc>
+    <lastmod>2011-03-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/20110127_review-of-the-samsung-navibot-vcr8855/</loc>
+    <lastmod>2011-01-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/20101129_unboxing-the-garmin-forerunner-210/</loc>
+    <lastmod>2010-11-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/20101107_unboxing-the-samsung-navibot-vcr8855/</loc>
+    <lastmod>2010-11-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/20101003_sony-nx-5-hands-on-review/</loc>
+    <lastmod>2010-10-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/20101001_i-think-i-deserve-some-recognition/</loc>
+    <lastmod>2010-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/20100805_salon-8/</loc>
+    <lastmod>2010-08-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/20100721_samsung-nx10-hands-on-review/</loc>
+    <lastmod>2010-07-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/20100709_philips-obsessed-with-sound/</loc>
+    <lastmod>2010-07-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/20100620_samsung-nx10/</loc>
+    <lastmod>2010-06-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/20100617_sara-zoekt-werk/</loc>
+    <lastmod>2010-06-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/20100609_the-ipad-revolution/</loc>
+    <lastmod>2010-06-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/20100602_review-of-s3dtv-event/</loc>
+    <lastmod>2010-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/20100531_samsung-3d-tv/</loc>
+    <lastmod>2010-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/20100528_road-trip-to-paris/</loc>
+    <lastmod>2010-05-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/20100510_rolleiflex/</loc>
+    <lastmod>2010-05-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/20100502_vredebox/</loc>
+    <lastmod>2010-05-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/20100428_virtual-revolution-and-privacy/</loc>
+    <lastmod>2010-04-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/20100423_deranged-experimental-treatment/</loc>
+    <lastmod>2010-04-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/20100419_what_to_expect/</loc>
+    <lastmod>2010-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/about/</loc>
+    <lastmod>2010-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+</urlset>

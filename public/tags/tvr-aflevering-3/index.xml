@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tvr Aflevering 3 on achter.be</title>
+    <link>http://localhost:1313/tags/tvr-aflevering-3/</link>
+    <description>Recent content in Tvr Aflevering 3 on achter.be</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Apr 2010 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/tvr-aflevering-3/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Virtual revolution and privacy</title>
+      <link>http://localhost:1313/20100428_virtual-revolution-and-privacy/</link>
+      <pubDate>Wed, 28 Apr 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/20100428_virtual-revolution-and-privacy/</guid>
+      <description>&lt;p&gt;Last night &lt;a title=&#34;Canvas&#34; rel=&#34;none&#34; href=&#34;http://www.canvas.be/&#34;&gt;Canvas&lt;/a&gt; aired the third episode of &lt;a title=&#34;BBC&#34; rel=&#34;none&#34; href=&#34;http://www.bbc.co.uk&#34;&gt;BBC&lt;/a&gt;&amp;#8216;s internet documentary &lt;a title=&#34;Virtual Revolution&#34; rel=&#34;none&#34; href=&#34;http://www.bbc.co.uk/virtualrevolution&#34;&gt;The Virtual Revolution&lt;/a&gt;. The virtual revolution was an an open and collaborative production, which encouraged the web audience to help shape the series. But not only that is what made the experience interactive, during the TV-show people were encouraged to tweet and start a discussion about the subject of that evening. Canvas does the same and even has a web only discussion panel after every episode. Although hugely interesting, I&amp;#8217;m not going to talk about it, you can check it out yourself at the &lt;a title=&#34;The Virtual Revolution on Canvas&#34; rel=&#34;none&#34; href=&#34;http://programmas.canvas.be/the-virtual-revolution/&#34;&gt;Canvas-website&lt;/a&gt; or on twitter with the hashtag &lt;a title=&#34;#virtualrevolution on Canvas&#34; rel=&#34;none&#34; href=&#34;http://search.twitter.com/search?q=%23virtualrevolution&#34;&gt;#virtualrevolution&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;While following the tweets I noticed that a lot of people are very naive about their data online. They seem to think that you can hide yourself forever behind a screenname and that facebook is evil, because of their privacy settings. Although I don&amp;#8217;t always agree with the policy of facebook, you won&amp;#8217;t hear me say that they are the only evil on today&amp;#8217;s web.&lt;/p&gt;
+
+&lt;p&gt;At a certain point in the discussion someone, whom I&amp;#8217;m not going to name, said, I don&amp;#8217;t use my name on the web, so it will be very difficult to find out who I am. To prove that it&amp;#8217;s definitely not only facebook that has a lot of data about you, I started by looking to the person&amp;#8217;s twitter account, there was a .be domain listed, I looked at the registry data for the domain. I found out a name but not yet the one I needed. By coupling that name to his nickname in google, I found within 7 minutes his real name, location, profession, likes and marriage status. This all without the use of facebook.&lt;/p&gt;
+
+&lt;p&gt;I think, most people don&amp;#8217;t realize what they are sharing and how easy it is to find that data. From the moment you are connected to the internet you are sharing a lot of information. You get personalized ads according to your search query, content of your mail, webpage you are visiting, location you are, &amp;#8230; Everything you do on the web is recorded somewhere, somehow. Not only on the web btw, just think what&amp;#8217;s possible with fidelity cards or your bank card.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

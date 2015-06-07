@@ -3,6 +3,10 @@ title: About me
 author: Bunker
 layout: page
 date: 2010-04-19
+menu:
+  main:
+    Name: "About"
+    Weight: 100
 ---
 I&#8217;m Filip Bunkens, also knows as <a href="http://www.twitter.com/bunker" rel="me" title="Bunker at twitter.com">@bunker</a>. I&#8217;m a professional portrait, event, concept and advertising photographer based in Belgium.
 

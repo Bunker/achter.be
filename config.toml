@@ -8,6 +8,21 @@ layoutdir = "layouts"
 publishdir = "public"
 builddrafts = false
 canonifyurls = false
-paginate = 10
+paginate = 5
 paginatePath = "page"
 pluralizeListTitles = true
+
+[params]
+  Subtitle = "photography, coffee, technology and more"
+  GithubID = "Bunker"
+  TwitterID = "Bunker"
+  AnalyticsID = "UA-2550570-4"
+  Summary = false
+  Content = true
+
+[[menu.main]]
+    name = "Home"
+    pre = ""
+    weight = -110
+    identifier = "Home"
+    url = "/"

@@ -12,6 +12,10 @@ paginate = 5
 paginatePath = "page"
 pluralizeListTitles = true
 
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
 [params]
   Subtitle = "photography, coffee, technology and more"
   GithubID = "Bunker"

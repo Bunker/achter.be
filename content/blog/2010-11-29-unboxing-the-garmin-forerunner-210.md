@@ -17,7 +17,7 @@ Last week I received the Garmin Forerunner 210 I ordered of [mijngpsshop.be][1].
 
 [Unboxing Garmin Forerunner 210][2] from [PitsLamp][3] on [Vimeo][4].
 
-I already trained twice with the forerunner 210 and it behaved as advertised, except for 1 thing. It does not calculate the calories I burn during the training. But after searching on the internet I found a solution for that. You have to hard reset the watch, because there is something wrong when you receive it from the factory, which makes that the user settings aren&#8217;t used during the training.
+I already trained twice with the forerunner 210 and it behaved as advertised, except for 1 thing. It does not calculate the calories I burn during the training. But after searching on the internet I found a solution for that. You have to hard reset the watch, because there is something wrong when you receive it from the factory, which makes that the user settings aren't used during the training.
 
 The hard reset procedure you need to perform is pressing the page/menu and lap/reset at the same time, and holding them until you see a prompt (about 3 seconds). This clears all data on the watch, it also clears your history so be aware that you upload the data first, before doing this reset.
 

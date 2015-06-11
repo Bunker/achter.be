@@ -7,11 +7,11 @@ url: /20150519_raspberry-pi-scrapbook/
 categories:
   - Uncategorized
 ---
-I&#8217;m trying to setup a sort of internet of things sensor network at home.
+I'm trying to setup a sort of internet of things sensor network at home.
 
-For this project I&#8217;m using raspberry pi and Arduino boards.
+For this project I'm using raspberry pi and Arduino boards.
 
-As I already had to start over, I&#8217;m going to use this post as a scrapbook:
+As I already had to start over, I'm going to use this post as a scrapbook:
 
 **Pi setup:**
 

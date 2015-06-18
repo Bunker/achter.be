@@ -9,6 +9,8 @@ title: "Openhab install on Raspberry Pi"
 type: "post"
 ---
 
+![Openhab logo][4_img_link]
+
 This post is my guide for installing and configuring [Openhab][openhab_link] on the [Raspberry Pi][raspberry_pi_link]. 
 
 # Install openhab
@@ -37,3 +39,4 @@ This post is my guide for installing and configuring [Openhab][openhab_link] on 
 [openhab_link]: http://www.openhab.org/
 [raspberry_pi_link]: https://www.raspberrypi.org/
 [openhab_downloads]: http://www.openhab.org/downloads.html
+[4_img_link]: /images/blogposts/openhab-logo.png

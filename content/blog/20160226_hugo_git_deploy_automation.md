@@ -35,10 +35,17 @@ create a file in your home dir on your local system. And paste the following cod
 ```
 #!/bin/bash
 cd FULL_PATH_TO_HUGO_DIRECTORY && \
+echo -e "\033[1mDeleting files\033[0m" && \
 rm -rf && \
+echo -e "\033[1mGenerating hugo site\033[0m" && \
 hugo -d "PATH_TO_DEPLOY_DIRECTORY" && \
-cd PATH_TO_DEPLOY_DIRECTORY && \
+echo -e "\033[1mGit commit + push\033[0m" && \
 read -p "Commit description: " desc
+git add . && \
+git add -u && \
+git commit -m "$desc" && \
+git push &&
+cd PATH_TO_DEPLOY_DIRECTORY && \
 git add . && \
 git add -u && \
 git commit -m "$desc" && \
